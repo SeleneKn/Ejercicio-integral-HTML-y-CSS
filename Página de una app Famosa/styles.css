@@ -1,0 +1,78 @@
+
+
+*{
+    background-color: black;
+    text-align: center;
+    font-family: 'Times', sans-serif;
+    
+.titulo{
+    font-size: large;
+    color: rgb(179, 11, 75);
+}
+img{
+    width: 200px;
+    height: 200px;
+
+}
+.fecha{
+    width: 300px;
+    height: 120px;
+    color: beige;
+    background-color: rgb(5, 5, 5);
+    border: 5px solid rgb(247, 245, 245);
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+ 
+}
+.contenido{
+    width: 300px;
+    height: 120px;
+    color: beige;
+    background-color: rgb(5, 5, 5);
+    border: 5px solid rgb(247, 245, 245);
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+.descripcion{
+    width: 300px;
+    height: 400px;
+    color: beige;
+    background-color: rgb(5, 5, 5);
+    border: 5px solid rgb(247, 245, 245);
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+   
+.tecnologias{
+    width: 300px;
+    height: 250px;
+    color: beige;
+    background-color: rgb(5, 5, 5);
+    border: 5px solid rgb(247, 245, 245);
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+.enlace{
+    width: 300px;
+    height: 120px;
+    color: beige;
+    background-color: rgb(5, 5, 5);
+    border: 5px solid rgb(247, 245, 245);
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,41 @@
+*{
+  color: #4d4a4a;       /* Un gris oscuro elegante, mucho más suave de leer que el negro puro */
+  background-color: #e2e792; /* Tu color de fondo */
+  line-height: 1.6; 
+  text-align: center;         /* Tu interlineado */
+}
+
+#nombre{
+    color: rgb(146, 141, 141);
+    background-color: lightblue;
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 30px;
+}
+#profesion{
+ color: rgb(70, 56, 40);
+ background-color: lightblue;
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 30px;
+    font-size: 18px;
+}
+.sobre_el{
+    color: rgb(7, 7, 39);
+    background-color: lightblue;
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 30px;
+}
+
+.datos{
+    background-color: lightblue;
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 30px;
+}
+

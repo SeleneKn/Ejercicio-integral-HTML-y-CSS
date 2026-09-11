@@ -1,0 +1,46 @@
+/*Después:
+- Aplica CSS básico
+- Mejora la legibilidad
+- Usa colores, fuente y separación visual*/
+
+.aviso {
+    width: 70%;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MkdoGsFlbgf_kP8TRyGbX4PAP-R1iKHNdlxYCsc3ig&s=10');
+    background-size: cover;
+    background-position: center;
+}
+
+.caja-interna {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPIjmns4BeK2lRfQmGsAgGDccCUQsuJbd3O9mGv1QvQ&s=10);
+    color: rgb(231, 233, 223);
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+    font-family: 'Share Tech Mono', 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+
+.aviso2 {
+    width: 40%;
+    margin: 100px auto;
+    padding: 10px;
+    border-radius: 10px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MkdoGsFlbgf_kP8TRyGbX4PAP-R1iKHNdlxYCsc3ig&s=10');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.caja-interna2 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPIjmns4BeK2lRfQmGsAgGDccCUQsuJbd3O9mGv1QvQ&s=10);
+    color: rgb(247, 243, 243);
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+    font-family: 'VT323', monospace;
+    font-size: 16px;
+}
+
