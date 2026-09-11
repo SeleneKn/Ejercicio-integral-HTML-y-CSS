@@ -1,0 +1,57 @@
+/*Selectores*/
+/*Selector de elemento o etiqueta*/
+p{
+    color: blue;
+    background-color: rgb(171, 152, 189);
+}
+
+#cabeza{
+    color: #111010;
+    background-color: rgb(208, 230, 236);
+}
+#Nombre{
+    color: rgb(221, 219, 93);
+}
+#Profesión{
+    color: rgb(30, 161, 161);
+    background-color: rgb(221, 203, 176);
+}
+h6 {
+  font-size: 20px;
+}
+img{
+    width: 220px;
+    height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sobre_mi{
+    color: blueviolet;
+}
+
+#titulo{
+    color: rgb(192, 110, 63);
+}
+
+/*Selector universal*/
+*{
+    margin: 20;
+   background-color: rgb(137, 219, 240);
+ }
+
+ #parrafo{
+    font-family: 'Cormorant Garamond', serif;
+ }
+ h1, h2, h6{
+    font-weight: bold;
+    text-align: center;
+ }
+body{
+    font-family: "Papyrus", fantasy, serif;
+}
+
+#cargo{
+    color: blue;
+}
